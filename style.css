@@ -79,6 +79,6 @@ height: 8px;
 background: #3fefef;
 border-radius: 8px;
 filter: drop-shadow(0 0 20px #3fefef) drop-shadow(0 0 60px #3fefef);
-
+animation: animate_line 4s ease-in-out infinite;
 
 }
