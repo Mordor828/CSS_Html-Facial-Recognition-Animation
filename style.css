@@ -102,6 +102,7 @@ color: #3fefef;
 font-size: 2em;
 margin-top: 20px;
 filter: drop-shadow(0 0 20px #3fefef) drop-shadow(0 0 60px #3fefef);
+animation: animate_text 0.5s steps(1) infinite;
 
 }
 
