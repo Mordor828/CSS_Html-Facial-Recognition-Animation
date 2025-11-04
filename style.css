@@ -128,3 +128,12 @@ inset: 0;
 
 }
 
+.scan .face .dots::before
+{
+content: '';
+position: absolute;
+top: 0;
+left:0;
+width:500px;
+
+}
