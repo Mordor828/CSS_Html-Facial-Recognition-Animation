@@ -120,3 +120,12 @@ opacity: 1;
 } 
 
 }
+
+.scan .face .dots 
+{
+position: absolute;
+inset: 0;
+
+
+
+}
