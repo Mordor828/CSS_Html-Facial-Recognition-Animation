@@ -26,7 +26,20 @@ animation: animateColor 2s linear infinite;
 
 
 }
+@keyframes animateColor 
 
+{
+0%
+{
+   filter: hue-rotate(0deg);
+}
+100%
+{
+filter: hue-rotate(360deg);
+}
+
+
+}
 
 
 .scan .face {
