@@ -21,9 +21,13 @@ position: relative;
 display: flex;
 align-items: center;
 flex-direction: column;
+animation: animateColor 2s linear infinite;
+
 
 
 }
+
+
 
 .scan .face {
 position: relative;
@@ -135,5 +139,6 @@ position: absolute;
 top: 0;
 left:0;
 width:500px;
+height:500px;
 
 }
